@@ -5,16 +5,19 @@
     <meta name="viewport" content="width=device-width initial-scale=1.0" />
     
     <!-- Balises à compléter -->
-    <title></title>
+    <title>Un super titre</title>
     <meta name="description" content="">
     <link href="" rel="stylesheet">
     
 
 </head>
 <body>
+
+
       <header>
       </header>
       <main>
+        <p>salut ça va bien?</p>
       </main>
       <footer>
       </footer>
